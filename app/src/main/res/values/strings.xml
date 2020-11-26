@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="poster_of_movie_description">The poster for the film</string>
+    <string name="top_rated_text">The highest rating</string>
+    <string name="rating_detail_text">Rating</string>
+    <string name="release_date_text">Release date:</string>
+    <string name="description_detail_text">Movie description:</string>
+    <string name="go_over_favourite_activity">Go to favorites</string>
+    <string name="item_main_text">Main</string>
+    <string name="item_favourite_text">Favourites</string>
+    <string name="add_fovourite_snackbar_text">Movie added to favorites</string>
+    <string name="remove_fovourite_snackbar_text">The film is removed from favorites</string>
+    <string name="trailers_label_text">Trailers:</string>
+    <string name="reviews_label_text">Reviews:</string>
+    <string name="popularity_text">Most popular</string>
+    <string name="detail_title_text">Title:</string>
+    <string name="original_detail_title_text">Original Title:</string>
+    <string name="not_found_favourite_movies">Movies are not in favorites</string>
+
+</resources>
